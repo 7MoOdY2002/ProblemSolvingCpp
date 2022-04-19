@@ -1,7 +1,7 @@
 # CodeForces
 CF problems
 
-Here are the links for my problems(every each of them was accepted):
+Here are the links for my problems(every one of them was accepted):
  
  https://codeforces.com/problemset/problem/894/A 
 
