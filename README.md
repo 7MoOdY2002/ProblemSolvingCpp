@@ -2,6 +2,8 @@
 
 
 Here are the links for my problems(every one of them was accepted):
+
+CodeForces:
  
  https://codeforces.com/problemset/problem/894/A 
 
@@ -28,3 +30,5 @@ Here are the links for my problems(every one of them was accepted):
   https://codeforces.com/problemset/problem/115/A 
   
   https://codeforces.com/problemset/problem/948/A
+  
+  https://codeforces.com/problemset/problem/1055/A
