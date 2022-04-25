@@ -1,5 +1,5 @@
-# CodeForces
-CF problems
+# C++ Problem Solving (links + answer codes)
+
 
 Here are the links for my problems(every one of them was accepted):
  
