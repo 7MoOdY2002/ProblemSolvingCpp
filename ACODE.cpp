@@ -21,6 +21,7 @@ int ACODE(string s) {
 	}
 	return vals[s.size() - 1];
 }
+//hello people
 int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(NULL);
