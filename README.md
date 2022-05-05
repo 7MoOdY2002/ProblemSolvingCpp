@@ -33,8 +33,8 @@
   
   https://codeforces.com/problemset/problem/1055/A
   
-## Spoj:
-
+## Spoj <img src="https://user-images.githubusercontent.com/103985762/166989869-2033a2e2-5401-4508-83c6-0503ccc1be73.png" width="40" height="35" />:
+https://user-images.githubusercontent.com/103985762/166989869-2033a2e2-5401-4508-83c6-0503ccc1be73.png
   https://www.spoj.com/problems/ACODE/ 
   
   https://www.spoj.com/problems/COINS/ 
