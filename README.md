@@ -43,6 +43,10 @@
 
   https://open.kattis.com/problems/firefly
   
+  https://open.kattis.com/problems/phonelist
+  
+  https://open.kattis.com/problems/piglatin
+  
    
 
    
