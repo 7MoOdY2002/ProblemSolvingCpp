@@ -1,9 +1,9 @@
 # C++ Problem Solving (links + answer codes)
 
 
-Here are the links for my problems(every one of them was accepted):
+*Here are the links for my problems(every one of them was accepted):*
 
-##CodeForces:
+## CodeForces:
  
   https://codeforces.com/problemset/problem/894/A 
 
@@ -33,12 +33,13 @@ Here are the links for my problems(every one of them was accepted):
   
   https://codeforces.com/problemset/problem/1055/A
   
-##Spoj:
+## Spoj:
 
   https://www.spoj.com/problems/ACODE/ 
   
   https://www.spoj.com/problems/COINS/ 
-##Katiis:
+  
+## Katiis:
 
   https://open.kattis.com/problems/firefly
   
