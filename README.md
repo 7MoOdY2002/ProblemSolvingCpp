@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/103985762/167025602-d6973d15-e2c1-4dd3-b806-cc163ecd3c78.png" width="450" height="250" />
 
 
-*Here are the links for my problems(every one of them was accepted):*
+*Here are the links for my problems(every one of them was accepted 😁):*
 
 ## CodeForces <img src="https://user-images.githubusercontent.com/103985762/166987721-50a5e6fe-d808-4446-bd14-7900093fe9d1.jpg" width="40" height="35" /> :
  
@@ -49,6 +49,8 @@
   https://open.kattis.com/problems/piglatin
   
   https://open.kattis.com/problems/trackingshares
+  
+##
   
 *◼️I will update this list everytime i solve a new problem◼️*
 
