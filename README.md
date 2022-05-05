@@ -39,7 +39,7 @@
   
   https://www.spoj.com/problems/COINS/ 
   
-## Katiis <img src="https://user-images.githubusercontent.com/103985762/167005321-bc173c5a-fd07-403e-b2a5-cb1ec0125c3f.png" width="50" height="35" />:
+## Kattis <img src="https://user-images.githubusercontent.com/103985762/167005321-bc173c5a-fd07-403e-b2a5-cb1ec0125c3f.png" width="50" height="35" />:
 
   https://open.kattis.com/problems/firefly
   
