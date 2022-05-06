@@ -1,4 +1,4 @@
-# C++ Problem Solving (links + solution's codes 🖥️)
+# C++ Problem Solving (links + solutions' code 🖥️)
 <img src="https://user-images.githubusercontent.com/103985762/167025602-d6973d15-e2c1-4dd3-b806-cc163ecd3c78.png" width="450" height="250" />
 
 
