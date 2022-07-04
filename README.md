@@ -44,6 +44,8 @@
   
   https://codeforces.com/problemset/problem/1352/A
   
+  https://codeforces.com/problemset/problem/1154/A
+  
 ## Spoj <img src="https://user-images.githubusercontent.com/103985762/166989869-2033a2e2-5401-4508-83c6-0503ccc1be73.png" width="40" height="35" /> :
 
   https://www.spoj.com/problems/ACODE/ 
